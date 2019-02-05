@@ -1,0 +1,11 @@
+C:\Users\jonan\source\repos\ServiceTest\ServiceTest\obj\Debug\ServiceTest.csprojResolveAssemblyReference.cache
+C:\Users\jonan\source\repos\ServiceTest\ServiceTest\obj\Debug\ServiceTest.ProjectInstaller.resources
+C:\Users\jonan\source\repos\ServiceTest\ServiceTest\obj\Debug\ServiceTest.Service1.resources
+C:\Users\jonan\source\repos\ServiceTest\ServiceTest\obj\Debug\ServiceTest.csproj.GenerateResource.Cache
+C:\Users\jonan\source\repos\ServiceTest\ServiceTest\obj\Debug\ServiceTest.csproj.CoreCompileInputs.cache
+C:\Users\jonan\source\repos\ServiceTest\ServiceTest\bin\Debug\ServiceTest.exe.config
+C:\Users\jonan\source\repos\ServiceTest\ServiceTest\bin\Debug\ServiceTest.exe
+C:\Users\jonan\source\repos\ServiceTest\ServiceTest\bin\Debug\ServiceTest.pdb
+C:\Users\jonan\source\repos\ServiceTest\ServiceTest\bin\Debug\MySql.Data.dll
+C:\Users\jonan\source\repos\ServiceTest\ServiceTest\obj\Debug\ServiceTest.exe
+C:\Users\jonan\source\repos\ServiceTest\ServiceTest\obj\Debug\ServiceTest.pdb
